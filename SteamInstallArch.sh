@@ -1,5 +1,7 @@
 ### Steam Install Script Arch Linux
 
+#!/bin/bash
+
 echo "Please go to /etc/pacman.conf and enable"
 echo "multilib packages if you have not done so."
 
